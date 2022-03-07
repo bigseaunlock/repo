@@ -1,0 +1,14 @@
+
+Package: com.bigseaunlock.grayrhino
+Version: 0.5-1
+Section: Tweaks
+Maintainer: carrierinfo <bigseaunlock@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debians/com.bigseaunlock.grayrhino.deb
+Size: 324 226 
+MD5sum: a10cb5bdcf747f7bc953a66b0542a0a5
+Description: grayrhino cydia tweak for iOS sim unlock
+Name: BigseaUnlock
+Author: bigsea <bigseaunlock@gmail.com>
+Depiction: grayrhino.github.io
