@@ -1,14 +1,31 @@
+Package: com.panyolsoft.celestia
+Version: 0.1-62
+Section: Tweaks
+Maintainer: Anonimous (Bigsea)
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (<= 1.17)
+Architecture: iphoneos-arm
+Filename: .//debs/com.panyolsoft.celestia_0.1-62_iphoneos-arm.deb
+Size: 24732
+Installed-Size: 328
+MD5sum: 35fcb8cbf0a3b68697f834b747a2fd82
+Description: control your broken phone using hardware buttons
+Name: celestia
+Author: Anonimous (BigSea)
 
-Package: com.bigseaunlock.grayrhino
+Package: com.panyolsoft.grayrhino
 Version: 0.5-1
 Section: Tweaks
-Maintainer: carrierinfo <bigseaunlock@gmail.com>
-Depends: firmware (>10.0), mobilesubstrate
+Maintainer: Bigsea <bigseaunlock@gmail.com>
+Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
-Filename: ./debians/com.bigseaunlock.grayrhino.deb
-Size: 324 226 
-MD5sum: a10cb5bdcf747f7bc953a66b0542a0a5
-Description: grayrhino cydia tweak for iOS sim unlock
-Name: BigseaUnlock
-Author: bigsea <bigseaunlock@gmail.com>
-Depiction: grayrhino.github.io
+Filename: .//debs/com.panyolsoft.grayrhino_0.5-1_iphoneos-arm.deb
+Size: 147252
+Installed-Size: 620
+MD5sum: 0b7ba0f9732a3ff7f5230cde5d70f7e1
+Description: Get rid of carrier lock!, this does not work on account locked devices or any kind of bypassed device since you will need to know original account in order to be able to activate device, this tweak should work on all jailbroken devices from ios 12 to 14
+Name: BigSeaUnlock
+Author: BigSea <bigseanlock@gmail.com>
+Icon: file:///gray.png
+
+
+
