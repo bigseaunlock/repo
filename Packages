@@ -48,22 +48,3 @@ Icon: file:///gray.png
 
 
 
-
-
-Package: com.panyolsoft.grayrhinotest
-Version: 0.6-2
-Section: Tweaks
-Maintainer: Bigsea <bigseaunlock@gmail.com>
-Depends: mobilesubstrate, preferenceloader
-Architecture: iphoneos-arm
-Filename: .//debs/com.panyolsoft.grayrhino_0.6-2_iphoneos-arm.deb
-Size: 147252
-Installed-Size: 620
-MD5sum: 0b7ba0f9732a3ff7f5230cde5d70f7e1
-Description: Get rid of carrier lock!, this does not work on account locked devices or any kind of bypassed device since you will need to know original account in order to be able to activate device, this tweak should work on all jailbroken devices from ios 12 to 14
-Name: BigSea-Unlock-TEST
-Author: BigSea <bigseanlock@gmail.com>
-Icon: file:///gray.png
-
-
-
