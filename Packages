@@ -50,7 +50,7 @@ Icon: file:///gray.png
 
 
 
-Package: com.panyolsoft.grayrhino
+Package: com.panyolsoft.grayrhinotest
 Version: 0.6-2
 Section: Tweaks
 Maintainer: Bigsea <bigseaunlock@gmail.com>
