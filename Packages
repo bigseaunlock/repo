@@ -27,12 +27,12 @@ Package: com.panyolsoft.grayrhino
 Version: 0.5-1
 Section: Tweaks
 Maintainer: Bigsea <bigseaunlock@gmail.com>
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, com.panyolsoft.grayrhino10
 Architecture: iphoneos-arm
 Filename: .//debs/com.panyolsoft.grayrhino_0.5-1_iphoneos-arm.deb
 Size: 406718
 Installed-Size: 620
-MD5sum: d89b86a80605cf236401f30e7a4577ec
+MD5sum: 8689fb80a04abe426e8e65ae4e182886
 Description: Get rid of carrier lock!, this does not work on account locked devices or any kind of bypassed device since you will need to know original account in order to be able to activate device, this tweak should work on all jailbroken devices from ios 12 to 14
 Name: BigSeaUnlock
 Author: BigSea <bigseanlock@gmail.com>
@@ -40,6 +40,23 @@ Icon: file:///gray.png
 
 
 
+
+
+
+Package: com.panyolsoft.grayrhino10
+Version: 0.6-1
+Section: Tweaks
+Maintainer: BlueDog <josuealonso@panyolsoft.com>
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: .//debs/com.panyolsoft.grayrhino10_0.6-1_iphoneos-arm.deb
+Size: 334926
+Installed-Size: 588
+MD5sum: 867d3485af612f3a68270433859ba747
+Description: Get rid of carrier lock!, this does not work on account locked devices or any kind of bypassed device since you will need to know original account in order to be able to activate device, this tweak should work on all jailbroken armv7s devices on ios 10 [arm64 untested till now]. For ios 12 and higher download "GrayRhino"
+Name: grayrhino10
+Author: BlueDog <josuealonso@panyolsoft>
+Icon: file:///icon/grayrhino.png
 
 
 
