@@ -1,8 +1,8 @@
-Origin: BigseaUnlock
-Label: Sim Unlock
+Origin: BigSea
+Label: BigSea Repo
 Suite: stable
-Version: 0.5-1
-Codename: iOS
+Version: 1.0
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: BigseaUnlock iOS sim unlock cydia tweak 
+Description: a repo where you can find my packages
